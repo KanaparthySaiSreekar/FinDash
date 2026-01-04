@@ -1,0 +1,5 @@
+{
+  "name": "FinanceDash",
+  "description": "A private, self-hosted personal finance dashboard for tracking net worth, transactions, and budgets.",
+  "requestFramePermissions": []
+}
